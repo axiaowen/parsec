@@ -1,0 +1,4 @@
+# Ensure Github detects our c++ code as c++ code
+/include/** linguist-language=C++
+*.h linguist-language=C++
+*.cpp linguist-language=C++
